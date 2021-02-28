@@ -11,7 +11,7 @@ function App() {
       <div className="stickyDiv">
         <ul className="navUL">
               <a href="#fantasyLink" className='nav-links'><li className='nav-item'>Fantasy</li></a>
-              <a href="#scifiLink"  className='nav-links'><li className='nav-item'>Sci-Fi/Thriller</li></a>
+              <a href="#scifiLink"  className='nav-links'><li className='nav-item'>Sci-Fi/Dystopia</li></a>
               <a href="#classicsLink" className='nav-links'><li className='nav-item'>Classics</li></a>
               <a href="#modernLink" className='nav-links'><li className='nav-item'>Modern</li></a>
               <a href="#nonfictionLink" className='nav-links'><li className='nav-item'>Nonfiction</li></a>
